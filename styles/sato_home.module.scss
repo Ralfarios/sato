@@ -1,0 +1,15 @@
+@use 'scss/variables/fonts.module.scss' as f;
+
+.wrapper {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 5rem;
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+}

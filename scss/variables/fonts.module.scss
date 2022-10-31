@@ -1,0 +1,9 @@
+$lm_font_bold: 700;
+$lm_font_medium: 500;
+$lm_font_regular: 400;
+
+:export {
+  LMFontBold: $lm_font_bold;
+  LMFontMedium: $lm_font_medium;
+  LMFontRegular: $lm_font_regular;
+}
